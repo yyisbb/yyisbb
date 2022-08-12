@@ -1,11 +1,17 @@
-我是一个什么都干，但又什么都不精通的萌新社畜。喜欢写文、摄影、剪辑、以及做出简洁美观的网站。
+### Hi there 👋
 
-看似性格腼腆，如果你能和我玩的很好，会发现我是个很能唠嗑的人（有自己的企鹅群，现实中的朋友也蛮多的）。非常非常喜欢动漫游戏/二次元，并希望以此为业。
+<p align="center">
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
+</p>
 
-在设计上有着自己的审美观，热于创造，有很多个人/企业项目，算是个准全栈吧。但属于技术保守派，以“技术服务业务”的心态学习。
+---
 
-- 前端（CSS3、JavaScript、TypeScript、JQuery、~~Vue~~、React、Svelte、小程序）
-- 后端（PHP、Express、NodeJS、MariaDB、Redis）
-- 其他（PS、AI、PR、Final Cut Pro、Motion）
+- 🔭 Gopher
+- 🏠 Homepage at https://www.gravity.wang/
 
-觉得我是一个有趣的人？那就前往 [我的小窝](https://paul.ren) 做做客吧！
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=yyisbb&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyisbb&layout=compact" />
+</div>
